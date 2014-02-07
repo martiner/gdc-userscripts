@@ -3,8 +3,9 @@ A collection of GDC userscripts
 
 ## Installation ##
 ### Chrome ###
-* Open [chrome://chrome/extensions/](chrome://chrome/extensions/)
-* Drag the script you want to load to the window
+* Download the script
+* Open [chrome://extensions](chrome://extensions)
+* Drag the downloaded script to the Extensions window 
 
 ### Firefox ###
 * Install [Greasmonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
@@ -12,7 +13,7 @@ A collection of GDC userscripts
 * Click on the user.js script that you want to install
 
 ## Scripts ##
-### gdc-github-jira ###
+### [gdc-github-jira](gdc-github-jira.user.js) ###
 Allows JIRA references displayed on github to appear as links back to [jira.intgdc.com](http://jira.intgdc.com).
 
 Stolen from [spring-userscripts](https://github.com/philwebb/spring-userscripts)
